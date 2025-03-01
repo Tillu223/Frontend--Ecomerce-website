@@ -15,3 +15,5 @@ This is a simple frontend e-commerce website built with **HTML, CSS, and JavaScr
 
 ## 🤝 Contributing
 Feel free to fork this repository and contribute! 🚀
+
+
