@@ -14,6 +14,6 @@ This is a simple frontend e-commerce website built with **HTML, CSS, and JavaScr
 2. Open `index.html` in a browser or use **Live Server** in VS Code.
 
 ## 🤝 Contributing
-Feel free to fork this repository and contribute! 🚀
+Feel free to fork this repository and contribute! 
 
 
